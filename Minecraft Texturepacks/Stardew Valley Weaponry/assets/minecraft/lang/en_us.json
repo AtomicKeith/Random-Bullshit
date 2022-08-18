@@ -1,4 +1,7 @@
 {
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
   "item.minecraft.iron_sword": "Steel Smallsword",
   "item.minecraft.wooden_sword": "Wooden Blade",
   "item.minecraft.stone_sword": "Rusty Sword",
